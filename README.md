@@ -500,4 +500,4 @@ INSERT INTO `city` VALUES (459,'Liverpool','GBR','England',461000);
 INSERT INTO `city` VALUES (460,'Edinburgh','GBR','Scotland',450180);
 commit;
 ```
-![alt text](First_data_analysis/World db schema design.jpg)
+![alt text](Files/World db schema design.png)
